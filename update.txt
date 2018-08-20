@@ -1,5 +1,0 @@
-;aiu;
-[General]
-ApplicationVersion= 1.1.0
-URL = https://github.com/Yokizen/AionTranslation6.2/raw/master/Gamecoast%20Patcher%20Yoki/Gamecoast%206.2%20ENG%20Aion%20Patch%20v-1.0.msi
-FilePath = [APPDIR]Gamecoast 6.2 ENG Aion Patch v-1.0.exe
