@@ -1,0 +1,2 @@
+;aiu;
+ApplicationVersion=1.0.0
